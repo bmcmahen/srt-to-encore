@@ -18,6 +18,7 @@
     "srt",
     "encore"
   ],
+  "repository": "https://github.com/bmcmahen/srt-to-encore",
   "author": "Ben McMahen",
   "license": "MIT"
 }
