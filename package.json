@@ -1,0 +1,23 @@
+{
+  "name": "srt-to-encore",
+  "version": "1.0.0",
+  "description": "convert srt files to an adobe encore compatible subtitle format",
+  "main": "index.js",
+  "dependencies": {
+    "srt": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "srt-to-encore": "bin/srt-to-encore.js"
+  },
+  "keywords": [
+    "subtitles",
+    "srt",
+    "encore"
+  ],
+  "author": "Ben McMahen",
+  "license": "MIT"
+}
